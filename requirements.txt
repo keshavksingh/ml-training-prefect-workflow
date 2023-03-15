@@ -1,0 +1,10 @@
+prefect
+torch
+torchvision
+python-dotenv
+mlflow
+azure-cli
+adlfs
+prefect-databricks
+keras
+tensorflow
